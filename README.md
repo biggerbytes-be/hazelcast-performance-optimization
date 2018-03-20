@@ -94,20 +94,6 @@ b.b.d.e.h.reference.ReferenceBenchmark.writeParentDataSerializable           thr
 b.b.d.e.h.reference.ReferenceBenchmark.writeSelfReferencing                  thrpt   25   70024.324 ±   488.725  ops/s
 
 Benchmark                                                                     Mode  Cnt          Score          Error  Units
-AccessBenchmark.field1                                                       thrpt   30  196720902.835 ± 10086147.346  ops/s
-AccessBenchmark.field4                                                       thrpt   30   55526984.649 ±   613149.719  ops/s
-AccessBenchmark.field6                                                       thrpt   30   37761615.725 ±   159815.858  ops/s
-AccessBenchmark.field8                                                       thrpt   30   32473239.079 ±   103050.350  ops/s
-AccessBenchmark.local1                                                       thrpt   30  255276564.045 ±  1223868.364  ops/s
-AccessBenchmark.local4                                                       thrpt   30   61457026.390 ±   509023.427  ops/s
-AccessBenchmark.local6                                                       thrpt   30   42457899.695 ±   224905.595  ops/s
-AccessBenchmark.local8                                                       thrpt   30   37609771.703 ±   459946.607  ops/s
-AccessBenchmark.person2s2_4                                                  thrpt   30   32849248.452 ±   554942.962  ops/s
-AccessBenchmark.person2s2_8                                                  thrpt   30   14706486.776 ±   151050.614  ops/s
-AccessBenchmark.persons2_1                                                   thrpt   30  132775696.326 ±  4058910.424  ops/s
-AccessBenchmark.persons_1                                                    thrpt   30  124257130.298 ±  3456492.200  ops/s
-AccessBenchmark.persons_4                                                    thrpt   30   32155848.820 ±   400302.979  ops/s
-AccessBenchmark.persons_8                                                    thrpt   30   13930176.251 ±   111428.450  ops/s
 hazelcast.annotated.AnnotatedBenchmark.arraysSerializable                    thrpt   30       2754.909 ±      816.210  ops/s
 hazelcast.annotated.AnnotatedBenchmark.writeArraysSerializable               thrpt   30       2028.326 ±      296.059  ops/s
 hazelcast.annotated.AnnotatedBenchmark.writeChildChildSerializable           thrpt   30       9311.299 ±      782.585  ops/s
